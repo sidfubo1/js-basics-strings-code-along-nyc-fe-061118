@@ -1,3 +1,3 @@
 // Write your code in this file!
-currentUser='Sid Shah';
-welcomeMessage='Welcome to Flatbook,';
+let currentUser='Sid Shah';
+let welcomeMessage="Welcome to Flatbook,";
